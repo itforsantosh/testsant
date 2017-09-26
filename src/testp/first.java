@@ -20,6 +20,7 @@ public class first {
 		}             
 		System.out.println();
 		}
+		System.out.println("Shivngi Singh");
 	}
 
 }
